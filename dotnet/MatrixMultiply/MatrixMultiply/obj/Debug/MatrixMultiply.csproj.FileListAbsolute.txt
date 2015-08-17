@@ -1,0 +1,5 @@
+Y:\Repositories\INB375\dotnet\MatrixMultiply\MatrixMultiply\bin\Debug\MatrixMultiply.exe
+Y:\Repositories\INB375\dotnet\MatrixMultiply\MatrixMultiply\bin\Debug\MatrixMultiply.pdb
+Y:\Repositories\INB375\dotnet\MatrixMultiply\MatrixMultiply\obj\Debug\MatrixMultiply.csprojResolveAssemblyReference.cache
+Y:\Repositories\INB375\dotnet\MatrixMultiply\MatrixMultiply\obj\Debug\MatrixMultiply.exe
+Y:\Repositories\INB375\dotnet\MatrixMultiply\MatrixMultiply\obj\Debug\MatrixMultiply.pdb
